@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+    width: 80%;
+    box-shadow: 0 0 10px gray;
+    margin: 0 auto;
+    text-align:center;
+    padding: 2em;
+    font-family: 'Roboto Serif', sans-serif;
+    font-weight:bold;
+  }
+  
+  #expenses-table {
+    margin: 0 auto;
+    margin-top: 2em;
+    width:67%;
+    
+    
+  }
+  
+  #total-cost-table {
+    margin: 0 auto;
+    text-align: center;
+    width:67%;
+  }
+  
+  #submit-btn {
+    padding: 1em;
+    background:lightblue;
+    cursor:pointer;
+  }
+  
